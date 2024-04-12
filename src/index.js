@@ -53,5 +53,3 @@ else {
         app,
     };
 }
-
-// Comment added
